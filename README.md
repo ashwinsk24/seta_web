@@ -2,6 +2,9 @@
 
 A completely Responsive Community Web App
 
+![image](https://github.com/ashwinsk24/seta_web/assets/71746986/a4272993-917d-4303-8d3e-64a5ea66bf02)
+
+
 ## Features
 - Responsive Realtime UI
 - Email & Password Authentication
